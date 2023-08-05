@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct Response: Hashable, Codable {
+struct Response: Codable {
     let title: String
 }
 
